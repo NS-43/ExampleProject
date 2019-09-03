@@ -12,9 +12,81 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-09-03T14:22:58.994+02:00
-  initializedAtString: 2019-09-03T14:17:12.448+02:00
+  lastUpdatedAtString: 2019-09-03T14:27:26.295+02:00
+  initializedAtString: 2019-09-03T14:27:25.972+02:00
   log:
+  - commitID: 7069bacbf175c5004ff9cc4dbfdaa87230a1b4e1
+    mergeA: 
+    mergeB: 
+    authorName: NS-43
+    authorEmail: nilaymse22@gmail.com
+    commitEmail: nilaymse22@gmail.com
+    commitName: NS-43
+    summary: commit3919
+    description: commit by Nilay
+    timeString: 2019-09-03T14:27:23.000+02:00
+    commitTimeString: 2019-09-03T14:27:23.000+02:00
+    changes:
+    - path: Library\CurrentLayout.dwlt
+      fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\EditorInstance.json
+      fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\expandedItems
+      fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\Library\expandedItems
+      projectPath: Library\expandedItems
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gituser.yaml
+      fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 8271b6c26eb685465bc8656b3531209ab9a37d0b
     mergeA: 
     mergeB: 
