@@ -12,6 +12,234 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-09-03T14:18:12.062+02:00
-  initializedAtString: 2019-09-03T14:10:43.519+02:00
-  entries: []
+  lastUpdatedAtString: 2019-09-03T14:27:10.523+02:00
+  initializedAtString: 2019-09-03T14:25:26.538+02:00
+  entries:
+  - path: Library\CurrentLayout.dwlt
+    fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\Library\CurrentLayout.dwlt
+    projectPath: Library\CurrentLayout.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\EditorInstance.json
+    fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\expandedItems
+    fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\Library\expandedItems
+    projectPath: Library\expandedItems
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gituser.yaml
+    fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
+    fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: obj\Debug\Unity.TextMeshPro.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\obj\Debug\Unity.TextMeshPro.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Unity.TextMeshPro.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: obj\Debug\Unity.TextMeshPro.csprojAssemblyReference.cache
+    fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\obj\Debug\Unity.TextMeshPro.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Unity.TextMeshPro.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: obj\Debug\Unity.TextMeshPro.Editor.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\obj\Debug\Unity.TextMeshPro.Editor.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Unity.TextMeshPro.Editor.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: obj\Debug\Unity.TextMeshPro.Editor.csprojAssemblyReference.cache
+    fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\obj\Debug\Unity.TextMeshPro.Editor.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Unity.TextMeshPro.Editor.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: obj\Debug\Unity.TextMeshPro.Editor.Tests.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\obj\Debug\Unity.TextMeshPro.Editor.Tests.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Unity.TextMeshPro.Editor.Tests.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: obj\Debug\Unity.TextMeshPro.Editor.Tests.csprojAssemblyReference.cache
+    fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\obj\Debug\Unity.TextMeshPro.Editor.Tests.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Unity.TextMeshPro.Editor.Tests.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: obj\Debug\Unity.TextMeshPro.Tests.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\obj\Debug\Unity.TextMeshPro.Tests.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Unity.TextMeshPro.Tests.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: obj\Debug\Unity.TextMeshPro.Tests.csprojAssemblyReference.cache
+    fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\obj\Debug\Unity.TextMeshPro.Tests.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Unity.TextMeshPro.Tests.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\ProcessJobs\e7445e78578eedbb14985dbc3dac88b8.bakert
+    fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\Temp\ProcessJobs\e7445e78578eedbb14985dbc3dac88b8.bakert
+    projectPath: Temp\ProcessJobs\e7445e78578eedbb14985dbc3dac88b8.bakert
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityLockfile
+    fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-04508a157f91fea4b8b8fd6abe684a43
+    fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\Temp\UnityTempFile-04508a157f91fea4b8b8fd6abe684a43
+    projectPath: Temp\UnityTempFile-04508a157f91fea4b8b8fd6abe684a43
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-2016b5361e45fa541a9838c3b249f170
+    fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\Temp\UnityTempFile-2016b5361e45fa541a9838c3b249f170
+    projectPath: Temp\UnityTempFile-2016b5361e45fa541a9838c3b249f170
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-2df6a6e555c17704680ff83267eedb8d
+    fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\Temp\UnityTempFile-2df6a6e555c17704680ff83267eedb8d
+    projectPath: Temp\UnityTempFile-2df6a6e555c17704680ff83267eedb8d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-3cedefefe47eea14d9a78a02429de4ca
+    fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\Temp\UnityTempFile-3cedefefe47eea14d9a78a02429de4ca
+    projectPath: Temp\UnityTempFile-3cedefefe47eea14d9a78a02429de4ca
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-41f9ce51e9b2d894c9f6f79000129824
+    fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\Temp\UnityTempFile-41f9ce51e9b2d894c9f6f79000129824
+    projectPath: Temp\UnityTempFile-41f9ce51e9b2d894c9f6f79000129824
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-4b8b42d37a382d2428c6b79fb83c8b56
+    fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\Temp\UnityTempFile-4b8b42d37a382d2428c6b79fb83c8b56
+    projectPath: Temp\UnityTempFile-4b8b42d37a382d2428c6b79fb83c8b56
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-5e28f94ee941e7648b6dd25f2dce0371
+    fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\Temp\UnityTempFile-5e28f94ee941e7648b6dd25f2dce0371
+    projectPath: Temp\UnityTempFile-5e28f94ee941e7648b6dd25f2dce0371
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-aa5549530c33270439d506ce75b5ffab
+    fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\Temp\UnityTempFile-aa5549530c33270439d506ce75b5ffab
+    projectPath: Temp\UnityTempFile-aa5549530c33270439d506ce75b5ffab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e27955344dab88544a367ee4e1ff7510
+    fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\Temp\UnityTempFile-e27955344dab88544a367ee4e1ff7510
+    projectPath: Temp\UnityTempFile-e27955344dab88544a367ee4e1ff7510
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity.TextMeshPro.csproj
+    fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\Unity.TextMeshPro.csproj
+    projectPath: Unity.TextMeshPro.csproj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity.TextMeshPro.Editor.csproj
+    fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\Unity.TextMeshPro.Editor.csproj
+    projectPath: Unity.TextMeshPro.Editor.csproj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity.TextMeshPro.Editor.Tests.csproj
+    fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\Unity.TextMeshPro.Editor.Tests.csproj
+    projectPath: Unity.TextMeshPro.Editor.Tests.csproj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity.TextMeshPro.Tests.csproj
+    fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\Unity.TextMeshPro.Tests.csproj
+    projectPath: Unity.TextMeshPro.Tests.csproj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
