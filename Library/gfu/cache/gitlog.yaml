@@ -12,9 +12,141 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-09-03T14:27:26.295+02:00
+  lastUpdatedAtString: 2019-09-03T14:29:00.725+02:00
   initializedAtString: 2019-09-03T14:27:25.972+02:00
   log:
+  - commitID: 9c7515666dc4f93251f929c7e3aa6a48374aa32a
+    mergeA: 
+    mergeB: 
+    authorName: NS-43
+    authorEmail: nilaymse22@gmail.com
+    commitEmail: nilaymse22@gmail.com
+    commitName: NS-43
+    summary: commit39192
+    description: second commit by Nilay
+    timeString: 2019-09-03T14:28:20.000+02:00
+    commitTimeString: 2019-09-03T14:28:20.000+02:00
+    changes:
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Unity.TextMeshPro.Editor.Tests.csproj
+      fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\Unity.TextMeshPro.Editor.Tests.csproj
+      projectPath: Unity.TextMeshPro.Editor.Tests.csproj
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Unity.TextMeshPro.Editor.csproj
+      fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\Unity.TextMeshPro.Editor.csproj
+      projectPath: Unity.TextMeshPro.Editor.csproj
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Unity.TextMeshPro.Tests.csproj
+      fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\Unity.TextMeshPro.Tests.csproj
+      projectPath: Unity.TextMeshPro.Tests.csproj
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Unity.TextMeshPro.csproj
+      fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\Unity.TextMeshPro.csproj
+      projectPath: Unity.TextMeshPro.csproj
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+      fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+      projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
+      fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
+      projectPath: obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
+      fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: obj\Debug\Unity.TextMeshPro.Editor.Tests.csproj.CoreCompileInputs.cache
+      fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\obj\Debug\Unity.TextMeshPro.Editor.Tests.csproj.CoreCompileInputs.cache
+      projectPath: obj\Debug\Unity.TextMeshPro.Editor.Tests.csproj.CoreCompileInputs.cache
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: obj\Debug\Unity.TextMeshPro.Editor.Tests.csprojAssemblyReference.cache
+      fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\obj\Debug\Unity.TextMeshPro.Editor.Tests.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Unity.TextMeshPro.Editor.Tests.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: obj\Debug\Unity.TextMeshPro.Editor.csproj.CoreCompileInputs.cache
+      fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\obj\Debug\Unity.TextMeshPro.Editor.csproj.CoreCompileInputs.cache
+      projectPath: obj\Debug\Unity.TextMeshPro.Editor.csproj.CoreCompileInputs.cache
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: obj\Debug\Unity.TextMeshPro.Editor.csprojAssemblyReference.cache
+      fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\obj\Debug\Unity.TextMeshPro.Editor.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Unity.TextMeshPro.Editor.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: obj\Debug\Unity.TextMeshPro.Tests.csproj.CoreCompileInputs.cache
+      fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\obj\Debug\Unity.TextMeshPro.Tests.csproj.CoreCompileInputs.cache
+      projectPath: obj\Debug\Unity.TextMeshPro.Tests.csproj.CoreCompileInputs.cache
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: obj\Debug\Unity.TextMeshPro.Tests.csprojAssemblyReference.cache
+      fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\obj\Debug\Unity.TextMeshPro.Tests.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Unity.TextMeshPro.Tests.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: obj\Debug\Unity.TextMeshPro.csproj.CoreCompileInputs.cache
+      fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\obj\Debug\Unity.TextMeshPro.csproj.CoreCompileInputs.cache
+      projectPath: obj\Debug\Unity.TextMeshPro.csproj.CoreCompileInputs.cache
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: obj\Debug\Unity.TextMeshPro.csprojAssemblyReference.cache
+      fullPath: C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\obj\Debug\Unity.TextMeshPro.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Unity.TextMeshPro.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
   - commitID: 7069bacbf175c5004ff9cc4dbfdaa87230a1b4e1
     mergeA: 
     mergeB: 
