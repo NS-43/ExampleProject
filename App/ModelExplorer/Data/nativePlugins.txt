@@ -1,7 +1,0 @@
-PlaneFinding.dll
-PerceptionSimulationManager.dll
-Microsoft.Perception.Simulation.dll
-MicStreamSelector.dll
-GpuTiming.dll
-PerceptionRemotingPlugin.dll
-HolographicStreamerDesktop.dll
