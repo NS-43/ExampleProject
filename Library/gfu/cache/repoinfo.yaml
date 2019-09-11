@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2019-09-05T15:16:03.991+02:00
-  initializedAtString: 2019-09-05T15:16:03.991+02:00
+  lastUpdatedAtString: 2019-09-11T12:17:23.459+02:00
+  initializedAtString: 2019-09-11T12:17:23.459+02:00
   currentGitRemote:
     name: origin
-    url: 
+    url: https://github.com/NS-43/ExampleProject.git
     login: 
     user: 
     host: 
@@ -33,5 +33,5 @@ MonoBehaviour:
     trackingBranch: 
   currentConfigRemote:
     name: origin
-    url: 
+    url: https://github.com/NS-43/ExampleProject.git
   currentHead: 

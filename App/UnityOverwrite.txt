@@ -11,7 +11,7 @@ GeneratedProjects\UWP\Unity.TextMeshPro\project.json: 1D02BC64BAC0D041019673A1C4
 GeneratedProjects\UWP\Unity.TextMeshPro.Tests\project.json: 1D02BC64BAC0D041019673A1C4C51737
 ModelExplorer\App.cs: 71B6DFCAB83EDA7B55F6BD35ED84AFC5
 ModelExplorer\AssemblyConverterArgs.txt: 81DD4247CCDCF95F967CDA9A6BE123E9
-ModelExplorer\ModelExplorer.csproj: 1DD060C91ED595FFE84EA577DE8B5B7B
+ModelExplorer\ModelExplorer.csproj: 71F4E0B2840F5E40DADC7EFB205AE677
 ModelExplorer\ModelExplorer.csproj.user: modified
 ModelExplorer\Package.appxmanifest: 68ED9CED2CB9845917B4D2CFC061F282
 ModelExplorer\project.json: 1D02BC64BAC0D041019673A1C4C51737

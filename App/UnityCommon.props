@@ -2,7 +2,7 @@
     <PropertyGroup>
         <UnityWSASolutionName>ModelExplorer</UnityWSASolutionName>
         <UnityWSASolutionDir>C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\App\</UnityWSASolutionDir>
-        <UnityProjectDir>C:\Users\Joe Dummy\Desktop\Gaze2\ModelExplorer\</UnityProjectDir>
+        <UnityProjectDir>C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\</UnityProjectDir>
         <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
         <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
     </PropertyGroup>

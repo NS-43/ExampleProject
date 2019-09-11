@@ -386,17 +386,17 @@
 
   <ItemGroup>
     <ProjectReference Include="C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj">
-      <Project>{2f672ff9-00f4-42d1-b011-abb5a29ae2f0}</Project>
+      <Project>{235ec928-2e16-452d-9b14-2b71c6cb14fd}</Project>
       <Name>Assembly-CSharp</Name>
       <Private>False</Private>
     </ProjectReference>
     <ProjectReference Include="C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\App\GeneratedProjects\UWP\Unity.TextMeshPro\Unity.TextMeshPro.csproj">
-      <Project>{659fb196-0a44-47b0-9044-9e2392cb4d92}</Project>
+      <Project>{4582541e-f097-463b-8af4-5db5f57e664e}</Project>
       <Name>Unity.TextMeshPro</Name>
       <Private>False</Private>
     </ProjectReference>
     <ProjectReference Include="C:\Users\Joe Dummy\Desktop\Gaze\ModelExplorer\App\GeneratedProjects\UWP\Unity.TextMeshPro.Tests\Unity.TextMeshPro.Tests.csproj">
-      <Project>{92c7d976-8303-431b-9ee8-1fb02a14bb74}</Project>
+      <Project>{c5bbc399-0fef-47a7-8b75-2de0834e0b06}</Project>
       <Name>Unity.TextMeshPro.Tests</Name>
       <Private>False</Private>
     </ProjectReference>
