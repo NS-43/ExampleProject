@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2019-09-11T12:17:23.459+02:00
-  initializedAtString: 2019-09-11T12:17:23.459+02:00
+  lastUpdatedAtString: 2019-09-11T13:42:39.755+02:00
+  initializedAtString: 2019-09-11T13:31:52.334+02:00
   currentGitRemote:
     name: origin
     url: https://github.com/NS-43/ExampleProject.git
