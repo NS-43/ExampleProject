@@ -9,9 +9,9 @@ ModelExplorer.sln: modified
 GeneratedProjects\UWP\Assembly-CSharp\project.json: 1D02BC64BAC0D041019673A1C4C51737
 GeneratedProjects\UWP\Unity.TextMeshPro\project.json: 1D02BC64BAC0D041019673A1C4C51737
 GeneratedProjects\UWP\Unity.TextMeshPro.Tests\project.json: 1D02BC64BAC0D041019673A1C4C51737
-ModelExplorer\App.cs: 71B6DFCAB83EDA7B55F6BD35ED84AFC5
+ModelExplorer\App.cs: modified
 ModelExplorer\AssemblyConverterArgs.txt: 0A07FBE6937B85C1AE5D7A59AFC4AD9C
-ModelExplorer\ModelExplorer.csproj: F7C377417BA6E655FFCE7B752DB8D180
+ModelExplorer\ModelExplorer.csproj: 8DBD9D3C1240672DC48083479DB91583
 ModelExplorer\ModelExplorer.csproj.user: modified
 ModelExplorer\Package.appxmanifest: 55998A5E0C34E17BF40A282EFCFD7C30
 ModelExplorer\project.json: 1D02BC64BAC0D041019673A1C4C51737

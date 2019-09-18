@@ -5,7 +5,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1103228d-1683-41b7-859a-c6294ea12a90}</ProjectGuid>
+    <ProjectGuid>{8dee5bd8-3248-4275-9257-5cf4d56ca977}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>AssemblyCSharpWSA</RootNamespace>
@@ -131,7 +131,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="C:\Users\Joe Dummy\Desktop\Gesture\Starting\ModelExplorer\App\GeneratedProjects\UWP\Unity.TextMeshPro\Unity.TextMeshPro.csproj">
-      <Project>{836ef779-277a-4c72-a8bc-eff4802ed25b}</Project>
+      <Project>{3efc902f-d42b-495f-ad53-52af2f5aec9f}</Project>
       <Name>Unity.TextMeshPro</Name>
     </ProjectReference>
     <Reference Include="UnityEngine.TextRenderingModule">

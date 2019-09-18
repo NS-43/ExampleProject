@@ -248,7 +248,7 @@ fc061f3ae8a876c0687e86378d4a447c UnityEngine.Networking.dll:UnityEngine.Networki
 370997f9285ec0882dac1269b38e7138 Assembly-CSharp.dll:HoloToolkit.Unity.InputModule.GamePadInputSource
 fcd8f15662adadef1c1505ab31bcb9b5 Assembly-CSharp.dll:HoloToolkit.Unity.Boundary.SceneContentAdjuster
 abe66d61877caea544b1c57e8c858a64 Assembly-CSharp.dll:HoloToolkit.Unity.UX.Parabola
-2fbe3631feaab5dfb7cbcd2651ee9424 Assembly-CSharp.dll:Academy.GestureAction
+2fbe3631feaab5dfb7cbcd2651ee9424 Assembly-CSharp.dll:.GestureAction
 b81c0751971712475f1a18b696c13d85 Assembly-CSharp.dll:HoloToolkit.Unity.UX.BoundingBox
 b12bb9e6284dff5420ce7bfccf9df0f3 Assembly-CSharp.dll:HoloToolkit.UI.Keyboard.UICollection
 72a8523b432c0a5317826b7a9e0a0e79 Unity.TextMeshPro.dll:TMPro.PackageResourceImporterWindow

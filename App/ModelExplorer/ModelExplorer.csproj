@@ -380,17 +380,17 @@
 
   <ItemGroup>
     <ProjectReference Include="C:\Users\Joe Dummy\Desktop\Gesture\Starting\ModelExplorer\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj">
-      <Project>{ed53771d-79b5-4b07-beea-ba5297ad5316}</Project>
+      <Project>{dc2998d8-664f-44a4-a32d-031b2b179ecb}</Project>
       <Name>Assembly-CSharp</Name>
       <Private>False</Private>
     </ProjectReference>
     <ProjectReference Include="C:\Users\Joe Dummy\Desktop\Gesture\Starting\ModelExplorer\App\GeneratedProjects\UWP\Unity.TextMeshPro\Unity.TextMeshPro.csproj">
-      <Project>{1103228d-1683-41b7-859a-c6294ea12a90}</Project>
+      <Project>{8dee5bd8-3248-4275-9257-5cf4d56ca977}</Project>
       <Name>Unity.TextMeshPro</Name>
       <Private>False</Private>
     </ProjectReference>
     <ProjectReference Include="C:\Users\Joe Dummy\Desktop\Gesture\Starting\ModelExplorer\App\GeneratedProjects\UWP\Unity.TextMeshPro.Tests\Unity.TextMeshPro.Tests.csproj">
-      <Project>{b2b9ccda-eddf-4fd6-8620-029eb5496af9}</Project>
+      <Project>{344ce2b8-1607-4c9f-9d93-7ce602fd546d}</Project>
       <Name>Unity.TextMeshPro.Tests</Name>
       <Private>False</Private>
     </ProjectReference>
